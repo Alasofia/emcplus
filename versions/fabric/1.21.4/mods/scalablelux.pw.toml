@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Ps1zyz6x/versions/brerLvPf/ScalableLux-0.1.2%2Bfabric.87468e8-all.jar"
-hash-format = "sha512"
-hash = "ba4223be1e5f983f9ab0a186f2e63f07034e0d39ab009d6b4e59cb1f37e18d6139c669f0ea043b892c4211f79a68f61ebf6d500c0c8742babfa7a49b551cd68a"
+hash-format = "sha256"
+hash = "b04607c267612c9bbf65df5c90c6b5d3f7c0fa6390b65c9c2e5ef449e04962d1"
 
 [update]
 [update.modrinth]

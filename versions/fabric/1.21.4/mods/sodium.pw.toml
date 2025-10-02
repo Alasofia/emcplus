@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/AANobbMI/versions/c3YkZvne/sodium-fabric-0.6.13%2Bmc1.21.4.jar"
-hash-format = "sha512"
-hash = "2c72ca2ddfd27e29ff6c24fccdf6f3d80857bd1014c707017f96cb4a424f94918e53ba21d85f22e3c9171803f8d2c12c99ae857d38d8e85546cc65960b95a2f1"
+hash-format = "sha256"
+hash = "92b79623fc00f0f948005a0ae416cb42a51646f2423b4036e27e867e4001a47e"
 
 [update]
 [update.modrinth]

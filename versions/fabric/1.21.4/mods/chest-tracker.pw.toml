@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/ni4SrKmq/versions/b7fm4GOU/chesttracker-2.6.7%2B1.21.4.jar"
-hash-format = "sha512"
-hash = "cb798daee0afe707f6c029f11b75a70b2ab2fdceb409bb75c99aa3ee2eb8943115ed7a8efac96c78e12442c31fd707e59feef0189a3de26ad4347bbc92587148"
+hash-format = "sha256"
+hash = "e309efaba5f13bc8589048ab4a30ee536b24c9d367d064546af9b7458d3f16d5"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/xv94TkTM/versions/sLtmudOk/Controlling-fabric-1.21.4-22.0.5.jar"
-hash-format = "sha512"
-hash = "738f1dd22675592ec80f59a3d709bde27763b668c839820a09958e6c0cbfb8447809c954bc88def44202986fcb068e22d6d7aaee01f45f2b3a19e19d579907fe"
+hash-format = "sha256"
+hash = "4e39a8456b8f0f4411cf76e22016fb12cb12fada52a3426ca6f443c5258326c4"
 
 [update]
 [update.modrinth]

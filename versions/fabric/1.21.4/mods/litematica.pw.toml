@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/bEpr0Arc/versions/1Z4YHEi3/litematica-fabric-1.21.4-0.21.4.jar"
-hash-format = "sha512"
-hash = "7a1cfc0b97702e348b8c4baaefb310cb69a745da672e1bbbd312a92bfac90549bd81ac0b8e9ecb95d0daa43c7f441f5bd96dcb0cf810cfdf57043cedfa6d5c91"
+hash-format = "sha256"
+hash = "7f6e9152a5083971ce6692799739ad998eefe8b2bfb9e164bc3c6939e8229ff0"
 
 [update]
 [update.modrinth]

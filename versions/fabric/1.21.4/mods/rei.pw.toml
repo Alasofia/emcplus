@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/nfn13YXA/versions/C4edQN1w/RoughlyEnoughItems-18.0.808-fabric.jar"
-hash-format = "sha512"
-hash = "12e80622671ff1f1906132c9a2d0ce01bae877b0c912c53c708e5b6f8d6a3797c3c873bb9d492bc4b98e6db6ef9f626515ea333556c5f22c04c9e7de77042cdd"
+hash-format = "sha256"
+hash = "afe2246d35f0a1a33ecee2b740849672b273aad6fdd9f7c6b35c635c92b6b975"
 
 [update]
 [update.modrinth]
