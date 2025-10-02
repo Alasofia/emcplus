@@ -1,12 +1,12 @@
 name = "EMC+"
 author = "Alas"
-version = "1.4.0+1.21.4.fabric"
+version = "1.4.0a+EMC"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ae40e0ce0f0874f34b813d5ffce1c4f80f908abdbe048ac492b2b1da7a0de8ef"
+hash = "42807ed27925914eaae701c47e3afeb691f9e4a12f45ec41a118c5cf85cca997"
 
 [versions]
 fabric = "0.17.2"

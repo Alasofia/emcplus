@@ -13,8 +13,8 @@ file = "config/yosbr/config/breakthemod_config.json"
 hash = "1884da8b5764c0bd05311cc6caaa2630e12dff8bcd8750b66743d46041fd04ab"
 
 [[files]]
-file = "config/yosbr/config/chatplus/chatplus-v2.1.0.json"
-hash = "c3a0db3d9ac7a37b8f6ebed2d4eff5e4d694fb218c9afc91de32cf8564dbf7c7"
+file = "config/yosbr/config/chatplus/chatplus-v2.7.0.json"
+hash = "4a8589965b5b728c0ea20c8ec15b8e2eda2b9d32dbdbd713a463072a3eb6df41"
 
 [[files]]
 file = "config/yosbr/config/dynamic_fps.json"
