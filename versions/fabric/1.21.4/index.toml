@@ -17,6 +17,10 @@ file = "config/yosbr/config/chatplus/chatplus-v2.1.0.json"
 hash = "c3a0db3d9ac7a37b8f6ebed2d4eff5e4d694fb218c9afc91de32cf8564dbf7c7"
 
 [[files]]
+file = "config/yosbr/config/chatplus/chatplus-v2.7.0.json"
+hash = "524bffd2929a3280b9c93c63f43ca097f08a9e40404b2d340f5b18317eaf9aca"
+
+[[files]]
 file = "config/yosbr/config/dynamic_fps.json"
 hash = "aa798e887fb1fe69563a06e259dc2be59bcb3baf45ec05c1ded759ac6c1ff3ef"
 
@@ -38,7 +42,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/title_screen_layout.txt"
-hash = "8064e07fdd01aa040205b767697acd280044146fbdc20f5bb3900ffde0a7db56"
+hash = "5835df4b866c523d2d737c55465b45deb1c08c1cc253fdfbdc379d37d60f3cde"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
