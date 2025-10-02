@@ -1,0 +1,13 @@
+name = "PhantomShapes"
+filename = "phantomshapes-2.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TLvlCunx/versions/s35Pt7bd/phantomshapes-2.0.1.jar"
+hash-format = "sha512"
+hash = "eafc031b4da5a5a78d0c9803e5bf183598aef60d8eef8f491fda7040f5f7142f8e82766ddeb6934adedb29c04b5b4c83c1abee63df8d8fc19f5b845a624bd9da"
+
+[update]
+[update.modrinth]
+mod-id = "TLvlCunx"
+version = "s35Pt7bd"

@@ -1,0 +1,13 @@
+name = "BreakTheMod"
+filename = "breakthemod.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/prySNzZN/versions/Nq2DZLbV/breakthemod.jar"
+hash-format = "sha512"
+hash = "fe0f40132231fa866d4b506515baae1b68769cf3053c3f96da25bdbd0769cd5d5d339d6197219d3633f624109b3fc1776dcea7f2b77b1f41e4c039d821b2ee4b"
+
+[update]
+[update.modrinth]
+mod-id = "prySNzZN"
+version = "Nq2DZLbV"
