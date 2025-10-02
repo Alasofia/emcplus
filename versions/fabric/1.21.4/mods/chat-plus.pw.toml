@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/cJlZ132G/versions/5jQQY8Qv/chatplus-fabric-2.7.0.jar"
-hash-format = "sha512"
-hash = "e75bf33303f5c65d943688b159a0c61de8280d3e34c61a11443ab30352dce4649cf0f4acd1a8be41e85b26f6c30a4a81e1772f2cdf3ccf106f3057a7122c1925"
+hash-format = "sha256"
+hash = "08576111ac3b0a81dbab5e301116acb81e9b26adb1df6a6c85e09e3e5c0dbb0d"
 
 [update]
 [update.modrinth]

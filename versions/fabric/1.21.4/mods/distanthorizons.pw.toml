@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/uCdwusMi/versions/icIr6dPy/DistantHorizons-2.3.4-b-1.21.4-fabric-neoforge.jar"
-hash-format = "sha512"
-hash = "2ceea3d147c2045ed2deeb5e778b1ea76a8c4e5186400a0ead3c965743ef0d165e3764e1767eed31552d9c8fb4df66809bb1597fe9b221c7d3a0e0371f802b86"
+hash-format = "sha256"
+hash = "7e735d914a233c04b904cfd3141e8afd144514afa15056174e798c336b8f90af"
 
 [update]
 [update.modrinth]

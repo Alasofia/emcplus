@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/yBW8D80W/versions/zghzVa4c/lambdynamiclights-4.1.3%2B1.21.4.jar"
-hash-format = "sha512"
-hash = "9e38e30b68f40b4028179355027b3e3d0e037a4781f6fe883d2ac98d557e4d5a13b8b1efda893061c6ebb7edee3bbfc15a32217cd4f6a7a393e6c4595958c33b"
+hash-format = "sha256"
+hash = "2153771f2b3843a7e1c4d0ad14758a5e5cbda099ffa1f726d6b7bb33dc36c2a6"
 
 [update]
 [update.modrinth]

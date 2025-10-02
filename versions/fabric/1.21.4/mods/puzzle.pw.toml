@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/3IuO68q1/versions/ETBSXbar/puzzle-fabric-2.0.5%2B1.21.4.jar"
-hash-format = "sha512"
-hash = "ddc4e0493d2b8ba793f157d117d7c505887896ac9a86b55b0988264d660e005770fe03b0b22d931b368f0b76dab780af89102d6537b3a395d4c7292ef75e992d"
+hash-format = "sha256"
+hash = "aaf784c4993bd7304d766e76fb3ea49950a9d4a34de81adbf7499a86b546ebf6"
 
 [update]
 [update.modrinth]
